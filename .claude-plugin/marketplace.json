@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "business-consulting",
+      "description": "Full-stack management consulting toolkit — 16 skills, 24 commands, 5 industry overlays. Market research, competitive analysis, financial modeling, strategy frameworks, operations, benchmarking, data analysis, deliverables, change management, pricing, M&A, customer insights, digital transformation, risk management, talent strategy, and innovation.",
+      "source": {
+        "type": "local",
+        "path": "."
+      }
+    }
+  ]
+}
